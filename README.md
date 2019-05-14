@@ -1,6 +1,6 @@
 # ETL-Project: Danielle, Ivan & Peter
 
-## Top 500 Contemporary Artist Comparison to Current New York MoMA Contemporary Collection.<br/>
+### Top 500 Contemporary Artist Comparison to Current New York MoMA Contemporary Collection.<br/>
 
 
 We aim to demonstrate how well MoMA is representing these top 500 Contemporary Artists within their collection.<br/>

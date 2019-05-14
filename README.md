@@ -1,2 +1,2 @@
-# ETL-Project
-ETL Project - MoMA Contemporary Artist Comparison
+# ETL-Project: Danielle, Ivan & Peter
+Top 500 Contemporary Artist Comparison to Current New York MoMA Collection.

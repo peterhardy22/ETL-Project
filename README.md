@@ -2,11 +2,9 @@
 
 ## Top 500 Contemporary Artist Comparison to Current New York MoMA Contemporary Collection.<br/>
 <br/>
-<br/>
 
 
 We aim to demonstrate how well MoMA is representing these top 500 Contemporary Artists within their collection.<br/>
-<br/>
 <br/>
 
 

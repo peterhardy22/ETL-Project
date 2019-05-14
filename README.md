@@ -10,6 +10,6 @@ We aim to demonstrate how well MoMA is representing these top 500 Contemporary A
 </p>
 
 <p align="center">
-  ### Jean-Michel Basquiat, “Untitled” (1982)<br/>  
+  <strong>Jean-Michel Basquiat, “Untitled” (1982)</strong><br/>  
   (© 2017 The Estate of Jean-Michel Basquiat / ADAGP, Paris / ARS)
 </p>

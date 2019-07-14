@@ -16,4 +16,5 @@ We aim to demonstrate how well MoMA is representing these top 500 Contemporary A
   (© 2017 The Estate of Jean-Michel Basquiat / ADAGP, Paris / ARS)
 </p>
 
-
+Link to Tableau
+https://public.tableau.com/profile/ivan5599#!/vizhome/ELTProjectVisualizationwithTableau/Summary?publish=yes
